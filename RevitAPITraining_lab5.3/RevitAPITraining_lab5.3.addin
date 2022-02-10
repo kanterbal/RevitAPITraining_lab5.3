@@ -3,7 +3,9 @@
 	<AddIn Type="Application">
 		<Name>RevitAPITrainingRibbon</Name>
 		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITraining_lab5.3.dll"</Assembly>		
-		<AddInId>158FCF9A-7FB2-4F26-85FE-C86533055392</AddInId>
+		<AddInId>
+			AE5C98AC-9BD7-4D4C-8494-D8B5784F3F9F
+		</AddInId>
 		<FullClassName>RevitAPITraining_lab5._3.Main</FullClassName>
 		<VendorId>ADSK</VendorId>		
 	</AddIn>
